@@ -100,7 +100,7 @@ All visualizations are saved as high-resolution PNG files (300 DPI):
 
 ## Author
 
-COMP2501 Assignment
+Aafeef Ayman Ahmed
 
 ## License
 
